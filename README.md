@@ -16,9 +16,4 @@ People in technology industry often switch their jobs in their career, usually t
 
 ## Initial Design: 
 
-### Detailed desig
-
-![ykim915 design image](images/ykim915-design.jpg)
-
-### UML design
-![team design image](images/design.jpg)
+![image](https://user-images.githubusercontent.com/53075473/168498280-2724df93-91a6-4ca8-b625-fa1ec26e49e9.png)
