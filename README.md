@@ -7,11 +7,11 @@ People in technology industry often switch their jobs in their career, usually t
 
 ## Interface
 <p>
-<img src="https://user-images.githubusercontent.com/53075473/168497663-c1f6d5d3-598c-40ad-b23b-67bba6e47185.png" alt="drawing" style="width:300px;"/>
-<img src="https://user-images.githubusercontent.com/53075473/168497751-036de6ad-0665-4226-a8ca-154ad1bde556.png" alt="drawing" style="width:300px;"/>
-<img src="https://user-images.githubusercontent.com/53075473/168497942-e9287813-2d14-4096-b7f6-e4cbb39ee3b3.png" alt="drawing" style="width:300px;"/>
-<img src="https://user-images.githubusercontent.com/53075473/168497996-0ee340c4-7e81-467b-a7d7-6d583c45f18d.png" alt="drawing" style="width:300px;"/>
-<img src="https://user-images.githubusercontent.com/53075473/168498034-c7a7c107-0286-44ff-8e98-e49fc9232260.png" alt="drawing" style="width:300px;"/>
+<img src="https://user-images.githubusercontent.com/53075473/168497663-c1f6d5d3-598c-40ad-b23b-67bba6e47185.png" alt="drawing" style="width:200px;"/>
+<img src="https://user-images.githubusercontent.com/53075473/168497751-036de6ad-0665-4226-a8ca-154ad1bde556.png" alt="drawing" style="width:200px;"/>
+<img src="https://user-images.githubusercontent.com/53075473/168497942-e9287813-2d14-4096-b7f6-e4cbb39ee3b3.png" alt="drawing" style="width:200px;"/>
+<img src="https://user-images.githubusercontent.com/53075473/168497996-0ee340c4-7e81-467b-a7d7-6d583c45f18d.png" alt="drawing" style="width:200px;"/>
+<img src="https://user-images.githubusercontent.com/53075473/168498034-c7a7c107-0286-44ff-8e98-e49fc9232260.png" alt="drawing" style="width:200px;"/>
 </p>
 
 ## Initial Design: 
