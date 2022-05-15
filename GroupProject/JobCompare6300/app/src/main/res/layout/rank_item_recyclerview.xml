@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:clickable="true"
+              android:orientation="vertical">
+
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:gravity="center_vertical"
+                  android:padding="20dp">
+
+        <!--index-->
+        <TextView
+                android:id="@+id/rank"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:text="rank"
+                android:textSize="16sp"
+                android:textColor="#000"/>
+
+        <!--job title-->
+        <TextView
+                android:id="@+id/title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:text="title"
+                android:textSize="16sp"
+                android:textColor="#000"/>
+
+        <!--company-->
+        <TextView
+                android:id="@+id/company"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="100dp"
+                android:text="company"
+                android:textSize="16sp"
+                android:textColor="#444"
+                android:maxLines="1"/>
+    </LinearLayout>
+
+    <!--Line-->
+    <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#aaa"/>
+
+</LinearLayout>
